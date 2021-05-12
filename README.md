@@ -62,5 +62,5 @@
 
 + What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript ?
 
-+ Explain the differences on the usage of foo between function foo ```()``` ```{}``` and ```var foo = function() {}```.
++ Explain the differences on the usage of ```foo``` between ```function foo(){}``` and ```var foo = function(){}```.
 
