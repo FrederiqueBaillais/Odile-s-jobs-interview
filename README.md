@@ -65,3 +65,5 @@
 + Explain the differences on the usage of ```foo``` between ```function foo(){}``` and ```var foo = function(){}```.
 
 + What language constructions do you use for iterating over object properties and array items ?
+
++ What is event loop? What is the difference between call stack and task queue?
