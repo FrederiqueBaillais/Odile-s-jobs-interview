@@ -66,4 +66,6 @@
 
 + What language constructions do you use for iterating over object properties and array items ?
 
-+ What is event loop? What is the difference between call stack and task queue?
++ What is event loop? What is the difference between call stack and task queue ?
+
++ 
