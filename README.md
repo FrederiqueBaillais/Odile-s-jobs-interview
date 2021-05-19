@@ -69,3 +69,5 @@
 + What is event loop? What is the difference between call stack and task queue ?
 
 + Describe event capturing.
+
++ Can you explain what Function.call and Function.apply do? What's the notable difference between the two?
