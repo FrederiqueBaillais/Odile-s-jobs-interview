@@ -44,7 +44,7 @@
 
 + What is strict mode? What are some of the advantages/disadvantages of using it ?
 
-+ What are the differences between variables created using let, var or const ?
++ What are the differences between variables created using ```let```, ```var``` or ```const``` ?
 
 + Why you might want to create static class members ?
 
