@@ -73,3 +73,5 @@
 + Can you explain what Function.call and Function.apply do? What's the notable difference between the two?
 
 + Can you offer a use case for the new arrow ```=>``` function syntax? How does this new syntax differ from other functions?
+
++ Can you describe the main difference between the ```Array.forEach()``` loop and ```Array.map()``` methods and why you would pick one versus the other?
