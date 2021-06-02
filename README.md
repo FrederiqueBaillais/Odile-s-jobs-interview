@@ -77,3 +77,5 @@
 + Can you describe the main difference between the ```Array.forEach()``` loop and ```Array.map()``` methods and why you would pick one versus the other?
 
 + What are the pros and cons of extending built-in JavaScript objects?
+
++ What are the differences between ES6 class and ES5 function constructors?
