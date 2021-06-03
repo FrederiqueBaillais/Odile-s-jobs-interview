@@ -79,3 +79,5 @@
 + What are the pros and cons of extending built-in JavaScript objects?
 
 + What are the differences between ES6 class and ES5 function constructors?
+
++ What's a typical use case for anonymous functions?
