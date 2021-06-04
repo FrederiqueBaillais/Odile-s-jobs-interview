@@ -81,3 +81,5 @@
 + What are the differences between ES6 class and ES5 function constructors?
 
 + What's a typical use case for anonymous functions?
+
++ What's the difference between feature detection, feature inference, and using the UA string?
