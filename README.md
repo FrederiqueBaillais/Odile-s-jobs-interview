@@ -83,3 +83,5 @@
 + What's a typical use case for anonymous functions?
 
 + What's the difference between feature detection, feature inference, and using the UA string?
+
++ Describe event bubbling.
