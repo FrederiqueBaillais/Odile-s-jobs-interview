@@ -85,3 +85,5 @@
 + What's the difference between feature detection, feature inference, and using the UA string?
 
 + Describe event bubbling.
+
++ Explain event delegation.
