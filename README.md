@@ -30,7 +30,7 @@
 
 + Explain the difference between: ```function Person(){}```, ```var person = Person()```, and ```var person = new Person()``` ?
 
-+ What is the difference between while and do-while loops in JavaScript ?
++ What is the difference between ```while``` and ```do-while``` loops in JavaScript ?
 
 + Explain the difference between synchronous and asynchronous functions.
 
