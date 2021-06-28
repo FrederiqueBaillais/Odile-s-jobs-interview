@@ -87,3 +87,5 @@
 + Describe event bubbling.
 
 + Explain event delegation.
+
++ What tools and techniques do you use debugging JavaScript code?
