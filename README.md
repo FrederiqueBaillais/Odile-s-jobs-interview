@@ -89,3 +89,6 @@
 + Explain event delegation.
 
 + What tools and techniques do you use debugging JavaScript code?
+
++ Explain the difference between mutable and immutable objects. What is an example of an immutable object in JavaScript?
+
