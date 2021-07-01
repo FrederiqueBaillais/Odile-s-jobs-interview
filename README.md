@@ -22,7 +22,7 @@
 
 ## Category : web development - Tag : javascript - Level : 1
 
-+ What's the difference between a variable that is: null, undefined or undeclared? How would you go about checking for any of these states ?
++ What's the difference between a variable that is: ```null```, ```undefined``` or undeclared? How would you go about checking for any of these states ?
 
 + Explain "hoisting".
 
