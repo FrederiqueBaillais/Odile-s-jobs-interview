@@ -92,3 +92,4 @@
 
 + Explain the difference between mutable and immutable objects. What is an example of an immutable object in JavaScript?
 
++ Explain Function.prototype.bind.
