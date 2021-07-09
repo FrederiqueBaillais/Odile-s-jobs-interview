@@ -70,7 +70,7 @@
 
 + Describe event capturing.
 
-+ Can you explain what Function.call and Function.apply do? What's the notable difference between the two?
++ Can you explain what ```function.call``` and ```function.apply``` do? What's the notable difference between the two?
 
 + Can you offer a use case for the new arrow ```=>``` function syntax? How does this new syntax differ from other functions?
 
@@ -92,4 +92,4 @@
 
 + Explain the difference between mutable and immutable objects. What is an example of an immutable object in JavaScript?
 
-+ Explain Function.prototype.bind.
++ Explain ```function.prototype.bind```.
